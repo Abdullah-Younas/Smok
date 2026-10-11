@@ -1,0 +1,17 @@
+
+# CMake build files
+build/
+cmake-build-*/
+
+# Compiled binaries and object files
+*.o
+*.a
+*.so
+*.out
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
